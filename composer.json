@@ -1,0 +1,15 @@
+{
+    "name": "raphael/mfw",
+    "authors": [
+        {
+            "name": "Raphael Kieling",
+            "email": "rapha_kieling@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Raphael\\":"src"
+        }
+    }
+}
